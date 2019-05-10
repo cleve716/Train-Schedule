@@ -7,3 +7,8 @@ body{
     display: inline-block;
     width: 16.575%;
   }
+  .jumbotron{
+    font-family: 'Poiret One', cursive;
+    font-size: 35px;
+    
+  }
