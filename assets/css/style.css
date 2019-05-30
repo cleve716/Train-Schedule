@@ -1,14 +1,33 @@
 
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+
 body{
     background-image: url("../../assets/images/train-station.JPG");
+ 
   }
   #train-table th,
   td {
     display: inline-block;
     width: 16.575%;
   }
-  .jumbotron{
+  h1, h3{
     font-family: 'Poiret One', cursive;
-    font-size: 35px;
+    font-size: 50px;
+    color: rgb(211, 214, 35);
+    font-weight: bolder;
     
+  }
+  .card-header, .btn{
+      background-color: rgb(159, 103, 167);
+      color: white;
+      font-family: 'Poiret One', cursive;
+      font-weight: bolder;
+      font-size: 30px;
+   
+
+  }
+.btn{
+
+font-size: 24px;
   }
